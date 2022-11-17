@@ -1,0 +1,2 @@
+# yaderniy_gomosek
+лох
