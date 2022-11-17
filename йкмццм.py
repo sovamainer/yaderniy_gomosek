@@ -1,2 +1,1 @@
-print('Привет!')
-'jarsoa'
+drtfyguhjk
